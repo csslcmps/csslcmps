@@ -1,6 +1,5 @@
 ### Hey, I'm Cassiel =]
 <br>
-Hi, I'm Cassiel a designer and game developer from Brazil. Today I'm working as UI Developer Intern at [@CESAR] (http://www.cesar.org.br).
-You can find me on [![LinkedIn][1].
+Hi, I'm Cassiel a designer and game developer from Brazil. Today I'm working as UI Developer Intern at CESAR.
 
-[1]: https://www.linkedin.com/in/cassielk/
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csslcmps&layout=compact)](https://github.com/csslcmps/github-readme-stats)
