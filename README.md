@@ -4,10 +4,10 @@ I'm Cassiel, a designer and game developer from Pernambuco, Brazil. Today I'm cu
 </p>
 
 
-<p aling="center">
+<p aling="left">
   <strong> Feel free to contact me! </strong>
 </p>
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/cassielk/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/"/>
   </a>
