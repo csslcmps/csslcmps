@@ -1,5 +1,5 @@
 ### Hi there =]
-<p align="justify"> I'm Cassiel, a multidisciplinary designer and game developer from Pernambuco, Brazil. Today I'm currently working as Junior UI Developer at <a href="https://www.cesar.org.br" alt="CESAR"/>. I mainly use HTML, CSS, Javascript and C# but I'm always ready to learn new things.</p>
+<p align="justify"> I'm Cassiel, a multidisciplinary designer and game developer from Pernambuco, Brazil. Today I'm currently working as Junior UI Developer at CESAR. I mainly use HTML, CSS, Javascript and C# but I'm always ready to learn new things.</p>
 
 <p aling="left"> <strong> Feel free to contact me! </strong> </p>
 
